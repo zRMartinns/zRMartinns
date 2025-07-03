@@ -1,4 +1,4 @@
-#👋 Olá, eu sou o Rodrigo Martins
+Olá, eu sou o Rodrigo Martins
 
 Sou Analista de Marketing e Designer focado em criar experiências digitais intuitivas e acessíveis.  
 
