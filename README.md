@@ -1,10 +1,11 @@
-Olá, eu sou o Rodrigo Martins
+Hello, I'm Rodrigo Martins
 
-Sou Analista de Marketing e Designer focado em criar experiências digitais intuitivas e acessíveis.  
+I'm a Marketing Analyst and Designer focused on creating intuitive and accessible digital experiences.
 
-Especialista em:  
+Specializing in:
+
 - UX/UI Design  
-- Prototipação no Figma/Adobe XD
-- Acessibilidade digital  
-- Testes de usabilidade  
-- Metodologias ágeis
+- Prototyping with Figma / Adobe XD
+- Digital Accessibility  
+- Usability Testing  
+- Agile Methodologies
