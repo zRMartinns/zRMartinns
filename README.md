@@ -4,7 +4,7 @@ Sou Analista de Marketing e Designer focado em criar experiências digitais intu
 
 Especialista em:  
 - UX/UI Design  
-- Prototipação no Figma  
+- Prototipação no Figma/Adobe XD
 - Acessibilidade digital  
 - Testes de usabilidade  
 - Metodologias ágeis
